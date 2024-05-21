@@ -7,3 +7,6 @@ The coins are then sorted in accordance to their distance from the player.
 The "move_p" function checks where the coins are and moves the player to the coin.
 After the player reaches the designated coin from the list, the coin is removed from the list and the list is then reorganized according to the new distances between the player and the remaining coins.
 Code runs until all coins are collected.
+
+
+Finished on 2024-5-21
