@@ -3,7 +3,7 @@ import time
 import math
 import random
 
-BOARD_LEN = 20
+BOARD_LEN = 40
 board = [["." for _ in range(BOARD_LEN)] for _ in range(BOARD_LEN)] # create board
 p_loc = [random.randint(0, BOARD_LEN - 1), random.randint(0, BOARD_LEN - 1)] # player location
 player = "x"
