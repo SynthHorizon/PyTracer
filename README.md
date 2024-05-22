@@ -1,4 +1,4 @@
-Spawns user in random location on board along with four coins (to add more, you can create more instances in the main function and add them to the coins list).\
+Spawns user in random location on board along with four coins, to add more, you can create more instances in the main function and add them to the coins list in V1, V2 collects them automatically.\
 Change the board length by editing the BOARD_LEN variable, everything is built to scale so there is no need to worry about editing anything else.\
 The sorting algorithm used in the program is bubble sort.\
 
